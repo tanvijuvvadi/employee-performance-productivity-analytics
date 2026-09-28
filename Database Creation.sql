@@ -1,0 +1,3 @@
+CREATE DATABASE employee_performance_db;
+
+USE employee_performance_db;

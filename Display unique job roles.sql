@@ -1,0 +1,2 @@
+SELECT DISTINCT job_role
+FROM employee_performance;
